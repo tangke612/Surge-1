@@ -142,7 +142,7 @@ if (isSurge) {
 https://github.com/sazs34/TaskConfig/blob/master/assets/weather_pro.md
  */
 let config = {
-    darksky_api: "填这里", //从https://darksky.net/dev/ 上申请key填入即可
+    darksky_api: "440c5d2e99f341447a15a615492f3fa7", //从https://darksky.net/dev/ 上申请key填入即可
     aqicn_api: "f938b614e46d89841446f63b9001c8f468960380", //从http://aqicn.org/data-platform/token/#/ 上申请key填入即可
     huweather_apiKey: "82451dfb0b414c3ab8551b47aaad9998", //和风天气APIkey,可自行前往 https://dev.heweather.com/ 进行获取(注意key类型选WebApi)
     lat_lon: "40.38173815945312,116.86488379452513", //请填写经纬度,直接从谷歌地图中获取即可
